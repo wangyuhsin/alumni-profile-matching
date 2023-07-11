@@ -1,7 +1,7 @@
 # Alumni Profile Matching
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Alumni Profile Matching is a project aimed at facilitating networking between graduate students and alumni who share similar academic backgrounds and career goals. By developing a sophisticated machine learning model and data processing pipeline, the project enables students to connect with relevant alumni, seek mentorship support, and potentially secure referrals in companies where alumni are currently or previously associated.
+[Alumni Profile Matching](https://github.com/wangyuhsin/alumni-profile-matching/blob/main/Alumni-Profile-Matching.pdf) is a project aimed at facilitating networking between graduate students and alumni who share similar academic backgrounds and career goals. By developing a sophisticated machine learning model and data processing pipeline, the project enables students to connect with relevant alumni, seek mentorship support, and potentially secure referrals in companies where alumni are currently or previously associated.
 
 ![Flow](flow.png)
 

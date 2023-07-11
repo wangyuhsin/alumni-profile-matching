@@ -22,7 +22,7 @@ The analytics goals of the project include:
 - TF-IDF: Performing TF-IDF (Term Frequency-Inverse Document Frequency) on the transformed data to calculate the significance of words within each profile and across the dataset. This aids in identifying key terms and patterns contributing to profile similarity.
 
 ## Data Engineering Pipeline
-<img align="right" width=400px src="dag.png"/>
+<img align="right" width=500px src="dag.png"/>
 The data engineering pipeline involves three main steps:
 
 1. Data Ingestion: This step includes data extraction, transformation, and loading. The data extraction task retrieves alumni profiles and scraped LinkedIn data, which are then stored in JSON format in the GCP storage bucket. The data is transformed and loaded into MongoDB using PySpark for data cleaning, flattening, and aggregation.
